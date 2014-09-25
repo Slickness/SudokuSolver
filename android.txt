@@ -1,0 +1,3 @@
+title=Sudoku
+author=Randy
+orientation=Horizontal
